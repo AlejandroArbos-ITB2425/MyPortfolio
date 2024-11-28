@@ -91,6 +91,7 @@ main {
     padding: 20px;
     box-sizing: border-box;
     gap: 20px;
+    text-align: justify;
 }
 
 article {
@@ -98,6 +99,7 @@ article {
     flex-direction: column;
     overflow: hidden;
     height: 100%;
+    text-align: justify;
 }
 
 article iframe {
